@@ -1,0 +1,111 @@
+{
+    "scraper1": [
+        "https://buff.163.com/goods/900503",
+        "https://buff.163.com/goods/900632",
+        "https://buff.163.com/goods/900502",
+        "https://buff.163.com/goods/900610",
+        "https://buff.163.com/goods/900527",
+        "https://buff.163.com/goods/900570",
+        "https://buff.163.com/goods/900617",
+        "https://buff.163.com/goods/900489",
+        "https://buff.163.com/goods/900606",
+        "https://buff.163.com/goods/900491"
+    ],
+    "scraper2": [
+        "https://buff.163.com/goods/857543",
+        "https://buff.163.com/goods/857579",
+        "https://buff.163.com/goods/857583",
+        "https://buff.163.com/goods/857578",
+        "https://buff.163.com/goods/857588",
+        "https://buff.163.com/goods/857570",
+        "https://buff.163.com/goods/857522",
+        "https://buff.163.com/goods/857572",
+        "https://buff.163.com/goods/857579",
+        "https://buff.163.com/goods/857571"
+    ],
+    "scraper3": [
+        "https://buff.163.com/goods/36420",
+        "https://buff.163.com/goods/759227",
+        "https://buff.163.com/goods/39491",
+        "https://buff.163.com/goods/759178",
+        "https://buff.163.com/goods/759255",
+        "https://buff.163.com/goods/759296",
+        "https://buff.163.com/goods/759228",
+        "https://buff.163.com/goods/759378",
+        "https://buff.163.com/goods/886983",
+        "https://buff.163.com/goods/886628"
+    ],
+    "scraper4": [
+        "https://buff.163.com/goods/45283",
+        "https://buff.163.com/goods/886976",
+        "https://buff.163.com/goods/45367",
+        "https://buff.163.com/goods/781594",
+        "https://buff.163.com/goods/781572",
+        "https://buff.163.com/goods/45267",
+        "https://buff.163.com/goods/763240",
+        "https://buff.163.com/goods/781583",
+        "https://buff.163.com/goods/763386",
+        "https://buff.163.com/goods/857565"
+    ],
+    "scraper5": [
+        "https://buff.163.com/goods/781605",
+        "https://buff.163.com/goods/781612",
+        "https://buff.163.com/goods/39801",
+        "https://buff.163.com/goods/921461",
+        "https://buff.163.com/goods/921554",
+        "https://buff.163.com/goods/921428",
+        "https://buff.163.com/goods/921526",
+        "https://buff.163.com/goods/921430",
+        "https://buff.163.com/goods/921564",
+        "https://buff.163.com/goods/921437"
+    ],
+    "scraper6": [
+        "https://buff.163.com/goods/921510",
+        "https://buff.163.com/goods/921434",
+        "https://buff.163.com/goods/921512",
+        "https://buff.163.com/goods/921496",
+        "https://buff.163.com/goods/921451",
+        "https://buff.163.com/goods/921448",
+        "https://buff.163.com/goods/921556",
+        "https://buff.163.com/goods/900513",
+        "https://buff.163.com/goods/900566",
+        "https://buff.163.com/goods/900551"
+    ],
+    "scraper7": [
+        "https://buff.163.com/goods/900611",
+        "https://buff.163.com/goods/900522",
+        "https://buff.163.com/goods/900530",
+        "https://buff.163.com/goods/900586",
+        "https://buff.163.com/goods/900544",
+        "https://buff.163.com/goods/900467",
+        "https://buff.163.com/goods/900560",
+        "https://buff.163.com/goods/900574",
+        "https://buff.163.com/goods/900487",
+        "https://buff.163.com/goods/900472"
+    ],
+    "scraper8": [
+        "https://buff.163.com/goods/900573",
+        "https://buff.163.com/goods/886681",
+        "https://buff.163.com/goods/886678",
+        "https://buff.163.com/goods/886754",
+        "https://buff.163.com/goods/886674",
+        "https://buff.163.com/goods/886651",
+        "https://buff.163.com/goods/886667",
+        "https://buff.163.com/goods/857571",
+        "https://buff.163.com/goods/857543",
+        "https://buff.163.com/goods/857583"
+    ],
+    "scraper9": [
+        "https://buff.163.com/goods/857572",
+        "https://buff.163.com/goods/857522",
+        "https://buff.163.com/goods/857578",
+        "https://buff.163.com/goods/857588",
+        "https://buff.163.com/goods/857570",
+        "https://buff.163.com/goods/857573",
+        "https://buff.163.com/goods/857579",
+        "https://buff.163.com/goods/857563",
+        "https://buff.163.com/goods/857582"
+    ]
+    
+    
+}
