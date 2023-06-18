@@ -1,4 +1,4 @@
-# Buff163 Scraper
+# Buff163 Bot
 
 A python script that scrapes and monitors webpages on buff.163.com and allows users to automatically purchase items
 
