@@ -26,7 +26,7 @@ python3 getCookies.py
 ```
 After the automated session loads, login to your Steam account on Buff and wait until browser automatically closes. *Do not share your cookies with anyone*.
 
-2. Specify webpage item pages to scrape in the buff.json, modifying and deleting files and scrapers as you wish. Ex: https://buff.163.com/goods/36436.
+2. Specify webpage item pages to scrape in the buff.json, modifying links as you wish. Ex: https://buff.163.com/goods/36436.
 
 3. Run the script with parameters, first two being the range of scrapers included and the second being the maximum float acceptable. Below is an example, which uses the links of scraper1, scraper2, scraper3, and scraper4 in buff.json with a maximum float of 0.10
 ```python
