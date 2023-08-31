@@ -36,8 +36,8 @@ def obtainItems(request, driver, maximumFloat): # obtain list of 10 items wear v
         isNamed = False
     for i in range(10):
         try:
-            wear = driver.find_element(By.XPATH, '/html/body/div[7]/div/div[7]/table/tbody/tr[{}]/td[3]/div/div[1]/div[1]'.format(i+2))
-            price = driver.find_element(By.XPATH, '/html/body/div[7]/div/div[7]/table/tbody/tr[{}]/td[5]/div[1]/strong'.format(i+2)) #consistent html behavior across different item links for CS:GO
+            wear = driver.find_element(By.XPATH, '/html/body/div[6]/div/div[7]/table/tbody/tr[{}]/td[3]/div/div[1]/div[1]'.format(i+2))
+            price = driver.find_element(By.XPATH, '/html/body/div[6]/div/div[7]/table/tbody/tr[{}]/td[5]/div[1]/strong'.format(i+2)) #consistent html behavior across different item links for CS:GO
         except NoSuchElementException:
             print("could not locate item")
             continue
